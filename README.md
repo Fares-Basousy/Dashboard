@@ -106,3 +106,6 @@ pnpm lint
 ## Curriculum Context
 
 This project started from the Next.js App Router course starter and was customized beyond the base curriculum by adding signup with auto-login.
+
+## Deployed to Vercel
+https://financial-dashboard-ten-kappa.vercel.app/signup
